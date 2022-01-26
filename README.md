@@ -1,3 +1,6 @@
+![image](https://img.shields.io/badge/Delphi-10.4-brightgreen)
+![image](https://img.shields.io/github/license/jr8ppg/QthLookup)
+
 # QthLookup
 
 ## Overview
